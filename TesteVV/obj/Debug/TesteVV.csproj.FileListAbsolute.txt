@@ -1,0 +1,6 @@
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteVV\bin\Debug\TesteVV.exe.config
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteVV\bin\Debug\TesteVV.exe
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteVV\bin\Debug\TesteVV.pdb
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteVV\obj\Debug\TesteVV.csprojResolveAssemblyReference.cache
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteVV\obj\Debug\TesteVV.exe
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteVV\obj\Debug\TesteVV.pdb

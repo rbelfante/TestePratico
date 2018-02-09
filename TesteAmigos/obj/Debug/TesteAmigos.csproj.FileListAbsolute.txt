@@ -1,0 +1,8 @@
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\bin\Debug\TesteAmigos.dll
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\bin\Debug\TesteAmigos.pdb
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\bin\Debug\TesteVV.exe
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\bin\Debug\TesteVV.pdb
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\obj\Debug\TesteAmigos.csprojResolveAssemblyReference.cache
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\obj\Debug\TesteAmigos.dll
+C:\Users\mtzcpd644\Desktop\TesteVV\TesteAmigos\obj\Debug\TesteAmigos.pdb
